@@ -1,0 +1,6 @@
+#include<stdio.h>
+#include<conio.h>
+clrscr();
+printf("YASh");
+getch();
+}
